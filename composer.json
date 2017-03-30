@@ -1,0 +1,14 @@
+{
+    "name": "codelair/laircurl",
+    "description": "Curl Wrapper for Laravel 5",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "prog",
+            "email": "prog.codelair@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
